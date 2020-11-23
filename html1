@@ -1,0 +1,7 @@
+<!-- 11.23 -->
+<h1>HTML</h1>
+Hypertext Markup Language (HTML) is the standard markup language for <strong>creating <u>web</u> pages</strong> and web applications.
+ <!-- 
+ <__> : 열리는 태그 </__>: 닫히는 태그 , <strong> </strong> : 굵은 글씨, <u> </u> : 밑줄
+ <h1> </h1> : 제목 태그(개행됨), <h1></h1> ... <h6></h6> : 숫자가 커질수록 문자의 크기 작아짐. 
+ -->
